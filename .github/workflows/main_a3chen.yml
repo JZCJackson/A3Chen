@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'A3Chen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29983B6D1DA84F3A83CA13E199170628 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_944A5882E0AE4F3C8AC4F7094A7B5A76 }}
           package: '*.war'
